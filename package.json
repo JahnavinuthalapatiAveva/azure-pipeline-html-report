@@ -1,8 +1,8 @@
 {
   "name": "azure-pipelines-html-report",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "private": true,
-  "author": "Jakub Rumpca",
+  "author": "AVEVA",
   "dependencies": {
     "@material-ui/core": "^4.10.1",
     "@material-ui/icons": "^4.9.1",
