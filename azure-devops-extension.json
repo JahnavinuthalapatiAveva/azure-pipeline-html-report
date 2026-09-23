@@ -1,7 +1,7 @@
 {
     "manifestVersion": 1,
     "id": "aveva-codemetrics-html-report",
-    "publisher": "REPLACE_WITH_YOUR_PUBLISHER_ID",
+    "publisher": "Aveva-interop",
     "version": "1.0.9",
     "author": "AVEVA",
     "name": "AVEVA Code Metrics HTML Viewer",
